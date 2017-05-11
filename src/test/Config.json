@@ -1,0 +1,16 @@
+{
+"scheme": "keltic.t4web.com.ua/",
+"isHttpsConnection": false,
+"admin": {
+  "login": "t4web",
+  "password": "admin123"
+  },
+  "adminButika": {
+    "login": "KF",
+    "password": "qwerty123"
+  },
+"defaultUser": {
+  "login": "polikarpova.anya@gmail.com",
+  "password": "Renaissance123"
+  }
+}
